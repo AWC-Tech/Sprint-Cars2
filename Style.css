@@ -1,5 +1,5 @@
 body {
-  margin: auto;
+  margin: 0;
   min-height: 100vh;
   background: linear-gradient(135deg, #1a2a4a 0%, #3a5a8a 40%, #6b7f99 70%, #c0c8d4 100%);
   
@@ -106,8 +106,6 @@ h3 {
     font-size: 20px;
     cursor: pointer;
     border-radius: 10px;
-
-    
 }
 
 .back-button:hover {
