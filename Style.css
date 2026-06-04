@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1a2a4a 0%, #3a5a8a 40%, #6b7f99 70%, #c0c8d4 100%);
+}
+
+
+
+h1 {
+    box-shadow: 10px 10px;
+    animation-name: fadeIn;
+    animation-duration: 4s;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 0px;
+    padding: 3px;
+}
+
+p {
+    box-shadow: 10px 10px;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 3px;
+}
+
+h2 {
+    box-shadow: 10px 10px;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 3px;
+}
+
+h3 {
+    box-shadow: 10px 10px;
+    animation-name: fadeIn;
+    animation-duration: 3s; 
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 3px;
+}
+
+ul {
+    box-shadow: 10px 10px;
+    animation-name: fadeIn;
+    animation-duration: 5s; 
+    background-color: white; 
+    border-radius: 10px;
+    display: inline-block;
+    padding: 3px;
+}
+
+li {
+    animation-name: fadeIn;
+    animation-duration: 6s;
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 3px;
+}
+    @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+
+.back-button {
+    animation-name: fadeIn;
+    animation-duration: 4s;
+    background-color: white;
+    padding: 3px;
+    display: inline-block;
+}
