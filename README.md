@@ -20,3 +20,9 @@ Some CSS animations come from https://animista.net/
  * ----------------------------------------
  */
 
+**_ALL IMAGES BELONG TO THEIR RESPECTIVE AUTHOR_**
+The links are in order from their position on the website
+
+https://about.worldofoutlaws.com/hubfs/2023-Fan%20101%20Microsite/images/NOS-energy-drink-image.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3a/2013_WoO_Sprint_Car_Champion_Daryn_Pittman.jpg
+https://www.motortrend.com/uploads/sites/21/2010/09/ctrp-1011-01-sprint-car-wing-aerodynamics-.jpg
