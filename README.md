@@ -29,6 +29,6 @@ https://www.motortrend.com/uploads/sites/21/2010/09/ctrp-1011-01-sprint-car-wing
 
 **GAMES**
 **_PONG & SNAKE_**
-{content: **THESE BELONG TO straker ON GITHUB**}
+**THESE BELONG TO @straker ON GITHUB**
 https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4
 https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5
