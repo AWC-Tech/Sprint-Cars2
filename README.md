@@ -21,7 +21,7 @@ Some CSS animations come from https://animista.net/
  * ----------------------------------------
  */
 
-**_ALL IMAGES BELONG TO THEIR RESPECTIVE AUTHOR_**
+**_ALL IMAGES BELONG TO THEIR RESPECTIVE AUTHOR_** <br>
 The links are in order from their position on the website
 
 https://about.worldofoutlaws.com/hubfs/2023-Fan%20101%20Microsite/images/NOS-energy-drink-image.jpg
