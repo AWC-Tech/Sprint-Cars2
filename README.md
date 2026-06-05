@@ -34,3 +34,9 @@ https://www.motortrend.com/uploads/sites/21/2010/09/ctrp-1011-01-sprint-car-wing
 https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4 <br>
 https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5
 
+**INFORMATION** <br>
+https://en.wikipedia.org/wiki/Sprint_car_racing#References <br>
+https://www.skagitspeedway.com/downloads/get.aspx?i=1072986 <br>
+_Not All Information may be 100% accurate, as some of it is from what I've learned over the years, and may not be up-to-date._
+
+
