@@ -1,7 +1,7 @@
 
 This is a website I am making for Stardance. It is going to include an in-depth understanding and history of sprint cars. Currently, I am relearning the fundamentals of CSS for this project.
+The website features a very simplistic style, with a table of contents that allows a person to navigate to different pages.
 
-**NO AI IS BEING USED**
 
 
 _**CREDITS**_
