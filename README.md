@@ -1,3 +1,4 @@
+```
 This is a website I am making for Stardance. It is going to include an in-depth understanding and history of sprint cars. Currently, I am relearning the fundamentals of CSS for this project.
 
 **NO AI IS BEING USED**
@@ -30,5 +31,6 @@ https://www.motortrend.com/uploads/sites/21/2010/09/ctrp-1011-01-sprint-car-wing
 **GAMES**
 **_PONG & SNAKE_**
 **THESE BELONG TO @straker ON GITHUB**<br>
-https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4
+https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4 <br>
 https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5
+```
